@@ -20,4 +20,5 @@ int binCoeff(int n, int r) {
 
 int main() {
     cout << binCoeff(4, 2) << endl;
+    return 0;
 }
